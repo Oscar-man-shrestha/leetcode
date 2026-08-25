@@ -4,13 +4,10 @@ class Solution {
     for(int i =0; i<nums.length ;i++){
         s.add(nums[i]);
     }
-    for(int j=1;j<nums.length+2;j++){
-         System.out.print(j);
-        if(!s.contains(k*j)){
-           
-            return k*j;
-        }
+    int mult = k;
+    while(s.contains(mult)){
+        mult = mult+k;
     }
-    return -1;
+    return mult;
     }
 }
