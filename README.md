@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
