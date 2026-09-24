@@ -2,20 +2,16 @@ class Solution {
     public int smallestIndex(int[] nums) {
         
         for(int i=0;i<nums.length;i++){
-            int n = nums[i];
             int CurrSum = 0;
-            while(n>0){
-              int back = n%10;
+            while(nums[i]>0 ){
+              int back = nums[i]%10;
                CurrSum += back;
-               n=n/10;
+               nums[i]=nums[i]/10;
             }
            
             if(CurrSum==i){
                 return i;
             }
-            
-
-
         }
         return -1;
     }
