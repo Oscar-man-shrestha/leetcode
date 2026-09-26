@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
+| [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 | [1927-sum-game](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
