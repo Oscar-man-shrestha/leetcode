@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
