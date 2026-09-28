@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
