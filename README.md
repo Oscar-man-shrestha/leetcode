@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1872-stone-game-viii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
