@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Oscar-man-shrestha/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Oscar-man-shrestha/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Oscar-man-shrestha/leetcode/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
